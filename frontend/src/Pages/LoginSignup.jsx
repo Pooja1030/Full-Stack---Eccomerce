@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './CSS/LoginSignup.css'
-import { set } from 'mongoose';
 
 
 const LoginSignup = () => {
